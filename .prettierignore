@@ -5,7 +5,10 @@
 **/staticresources/**
 .localdevserver
 .sfdx
+<<<<<<< HEAD
 .sf
+=======
+>>>>>>> 023464ae895e153d373edf69a44195d3d2fcf7df
 .vscode
 
 coverage/
